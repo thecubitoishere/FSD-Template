@@ -157,3 +157,12 @@ Saved/
 
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
+
+# Unignore SpecialMusicFramework
+!/Content/SpecialMusicBP/**
+!/Content/_CustomSounds/**
+!/Content/_SpecialMusic/**
+!/Content/Audio/**
+!/Content/DRGLib/**
+!/Content/Enemies/**
+!/Content/GameElements/**
