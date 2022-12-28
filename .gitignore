@@ -159,9 +159,9 @@ Saved/
 .DS_Store
 
 # Unignore SpecialMusicFramework
-!/Content/SpecialMusicBP/**
-!/Content/_CustomSounds/**
-!/Content/_SpecialMusic/**
+!/Content/SpecificMusicLogic/**
+!/Content/_SpecificMusic/**
+!/Content/_SpecificMusicRedistributable/**
 !/Content/Audio/**
 !/Content/DRGLib/**
 !/Content/Enemies/**
