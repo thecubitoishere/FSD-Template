@@ -1,0 +1,5 @@
+Context,Priority,Parent (If applicable),Priorities <0 are not possible
+Ambient,0,,"If 2 songs are playing, the one with a lower priority will be faded out"
+GenericWave,10,,"If 2 songs attempt to play with the same priority, Seniority takes priority"
+SwarmerWave,20,GenericWave,
+,,,"Most song contexts will have a parent specified. If a song cannot be found with a certain context, try with its parent (e.g. SwarmerWave’s parent is GenericWave)"
