@@ -166,3 +166,5 @@ Saved/
 !/Content/DRGLib/**
 !/Content/Enemies/**
 !/Content/GameElements/**
+!/Content/LevelElements/**
+!/Content/_ModHub/**
